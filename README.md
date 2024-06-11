@@ -22,3 +22,4 @@ https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 
 ## Other Related Project:
 Fruit and Vegetable Disease Detection (Healthy vs Rotten) using EfficientNet-B0: https://github.com/MuhammadSub/Fruit-and-Vegetable-Disease-Detection-using-EfficientNet-B0/
+CropSight: Web Hub for Fruit and Crop Disease Detection: https://github.com/MuhammadSub/CropSight-Web-Hub-for-Fruit-and-Crop-Disease-Detection
